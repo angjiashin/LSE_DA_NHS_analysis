@@ -45,50 +45,11 @@ NHS North East London ICB - A3A8R              11837
 
 How many service settings, context types, national categories, and appointment statuses are there?
 
-General Practice             359274
-
-Primary Care Network         183790
-
-Other                        138789
-
-Extended Access Provision    108122
-
-Unmapped                      27419
-
  There are 5 service settings.
- 
-Care Related Encounter    700481
- 
-Inconsistent Mapping       89494
-
-Unmapped                   27419
 
  There are 3 context types.
  
-Inconsistent Mapping                                                   89494
-General Consultation Routine                                           89329
-General Consultation Acute                                             84874
-Planned Clinics                                                        76429
-Clinical Triage                                                        74539
-Planned Clinical Procedure                                             59631
-Structured Medication Review                                           44467
-Service provided by organisation external to the practice              43095
-Home Visit                                                             41850
-Unplanned Clinical Activity                                            40415
-Patient contact during Care Home Round                                 28795
-Unmapped                                                               27419
-Care Home Visit                                                        26644
-Social Prescribing Service                                             26492
-Care Home Needs Assessment & Personalised Care and Support Planning    23505
-Non-contractual chargeable work                                        20896
-Walk-in                                                                14179
-Group Consultation and Group Education                                  5341
-
  There are 18 national categories.
- 
-Attended    232137
-Unknown     201324
-DNA         163360
 
  There are 3 appointment statuses.
 
