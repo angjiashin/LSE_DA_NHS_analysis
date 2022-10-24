@@ -1,7 +1,7 @@
-## LSE_DA_NHS_analysis
+# LSE_DA_NHS_analysis
 
 
-# Findings
+## Findings
 The NHS incurs significant, potentially avoidable, costs when patients miss general practitioner (GP) appointments. Therefore, reducing or eliminating missed appointments would be beneficial financially as well as socially. This analysis will investigate the capacity of the networks and staff involved and the actual utilisation of resources.
 
 
